@@ -111,6 +111,7 @@ p {
 #trending {
   background-color:lightgrey;
     background-image: url(https://https://ayushkokande.github.io/iosdsubtask.github.io/collegephoto.jpg);
+  background-repeat:repeat;
 }
 
 .trending-column {
